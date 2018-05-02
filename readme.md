@@ -1,0 +1,1 @@
+At minimum, the app should include a way to generate or input, keep track of running totals, and support multiple players.
